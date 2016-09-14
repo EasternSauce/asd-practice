@@ -1,0 +1,1 @@
+Written in practice before algorithms and data structures course tests (2nd semester computer science). C++ implementation of most popular algorithms saved for future use all in one place.
